@@ -1,4 +1,4 @@
-#!/Users/hansiwang/Documents/todo-app/.venv/bin/python3.12
+#!/Users/hansiwang/Documents/todo-app/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
